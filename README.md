@@ -48,8 +48,8 @@ md
 
 ### 💻 Operating Systems I use:
 
-[![Apple](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)](https://ubuntu.com/desktop/wsl)
+[![Apple](https://img.shields.io/badge/-Apple-E95420?style=flat-square)]
 
 ### 📚Currently Learning
 
-[![React](https://img.shields.io/badge/-Zod-00008B?style=flat-square&logoColor=white)](https://zod.dev/)
+[![React](https://img.shields.io/badge/-React?style=flat-square)]
