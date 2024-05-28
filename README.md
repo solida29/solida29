@@ -20,7 +20,7 @@ md
 [![Express.js](https://img.shields.io/badge/-Express.js-404D59?style=flat-square)](https://expressjs.com/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-![Static Badge](https://img.shields.io/badge/html-css-blue)
+![Static Badge](https://img.shields.io/badge/html-css-blue?style=flat-square)
 
 
 ### 🗄️ Databases I've worked with:
