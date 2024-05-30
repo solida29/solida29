@@ -8,8 +8,6 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning frontend technologies too
 - 💞️ I’m collaborating on ITA Wiki project
 - 📫 How to reach me: Linkedin
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
   
 ## 🎓 My Background
 
@@ -24,8 +22,8 @@ I'm a native French speaker, proficient in Spanish, and advanced in English
 [![Express.js](https://img.shields.io/badge/-Express.js-404D59?style=flat-square)](https://expressjs.com/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 
 ### 🗄️ Databases I've worked with:
@@ -52,8 +50,8 @@ I'm a native French speaker, proficient in Spanish, and advanced in English
 
 ### 💻 Operating Systems I use:
 
-[![Apple](https://img.shields.io/badge/-Apple-black?style=flat-square&logo=apple)](https://www.apple.com)
+[![Apple](https://img.shields.io/badge/-Apple-000000?style=flat-square&logo=apple)](https://www.apple.com)
 
 ### 📚Currently Learning
-
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org)
+[![Koa](https://img.shields.io/badge/-Koa-33333D?style=flat-square&logo=koa)](https://koajs.com)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org)
