@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me: Linkedin
   
 ## 🎓 My Background
-I’m a Web Developer specializing in backend development with Node.js, and a graphic designer with over 10 years of experience in editorial design, branding, and digital communication. My strong technical skills in web development are complemented by a deep understanding of design and communication.
+I’m a Web Developer specializing in backend development with Node.js, TypeScript, SQL, MongoDB, Docker... and I am a graphic designer with over 10 years of experience in editorial design, branding, and digital communication. My strong technical skills in web development are complemented by a deep understanding of design and communication.
 
 ## 🌐 Languages
 I'm a native French speaker, proficient in Spanish, and advanced in English
